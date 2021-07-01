@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllAdjacentDuplicatesInString", "Week4\RemoveAllAdjacentDuplicatesInString.csproj", "{885FF811-8F4E-4E7D-BBAD-1DC6C02B7DA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1", "Week1", "{242B679F-6F11-40A8-B21B-E9EACC2B746D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week4", "Week4", "{E50D9661-BAFC-4156-BC93-41BEB3A19946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxAreaofIsland", "MaxAreaofIsland\MaxAreaofIsland.csproj", "{8643C648-3299-4143-844B-0A4F54461F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterleavingString", "InterleavingString\InterleavingString.csproj", "{CC1A591F-F4E4-497A-991A-A4B4E99B870D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumAreaofAPieceOfCakeAfterHorizontalAndVerticalCuts", "MaximumAreaofAPieceOfCakeAfterHorizontalAndVerticalCuts\MaximumAreaofAPieceOfCakeAfterHorizontalAndVerticalCuts.csproj", "{EDE747E8-32C0-448B-9C19-ECC15C814F41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{885FF811-8F4E-4E7D-BBAD-1DC6C02B7DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885FF811-8F4E-4E7D-BBAD-1DC6C02B7DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885FF811-8F4E-4E7D-BBAD-1DC6C02B7DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885FF811-8F4E-4E7D-BBAD-1DC6C02B7DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8643C648-3299-4143-844B-0A4F54461F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8643C648-3299-4143-844B-0A4F54461F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8643C648-3299-4143-844B-0A4F54461F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8643C648-3299-4143-844B-0A4F54461F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1A591F-F4E4-497A-991A-A4B4E99B870D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1A591F-F4E4-497A-991A-A4B4E99B870D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1A591F-F4E4-497A-991A-A4B4E99B870D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1A591F-F4E4-497A-991A-A4B4E99B870D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE747E8-32C0-448B-9C19-ECC15C814F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE747E8-32C0-448B-9C19-ECC15C814F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE747E8-32C0-448B-9C19-ECC15C814F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE747E8-32C0-448B-9C19-ECC15C814F41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{885FF811-8F4E-4E7D-BBAD-1DC6C02B7DA9} = {E50D9661-BAFC-4156-BC93-41BEB3A19946}
+		{8643C648-3299-4143-844B-0A4F54461F65} = {242B679F-6F11-40A8-B21B-E9EACC2B746D}
+		{CC1A591F-F4E4-497A-991A-A4B4E99B870D} = {242B679F-6F11-40A8-B21B-E9EACC2B746D}
+		{EDE747E8-32C0-448B-9C19-ECC15C814F41} = {242B679F-6F11-40A8-B21B-E9EACC2B746D}
+	EndGlobalSection
+EndGlobal
